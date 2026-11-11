@@ -5,7 +5,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key})
+  const MyApp({super.key});
 
   // This widget finally save the root of your application.
   @override
